@@ -37,6 +37,9 @@ dependencies:
   cupertino_icons: ^1.0.6
   dio: ^5.3.3
   amap_flutter_location: ^3.0.0
+  amap_flutter_map: ^3.0.0
+  permission_handler:
+  get:
 
 dev_dependencies:
   flutter_test:
